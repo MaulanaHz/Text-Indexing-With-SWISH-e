@@ -12,7 +12,7 @@ Penulis membuat skrip python untuk mengunduh (crawling) berita pada website:
 Berita yang terkumpul Dapat dilihat pada folder ./file. Secara keseluruhan berita yang diunduh sebanyaj 10K. Berita-berita ini nantinya dijadikan bahan text indexing. Berikut cuplikan skrip crawling berita:
 
 a.	AntaraNews
-![image](https://user-images.githubusercontent.com/49058895/97707301-aef62080-1ae9-11eb-866f-79c8dbf508e1.png)
+   ![image](https://user-images.githubusercontent.com/49058895/97707301-aef62080-1ae9-11eb-866f-79c8dbf508e1.png)
 
 b.	KompasNews
  
