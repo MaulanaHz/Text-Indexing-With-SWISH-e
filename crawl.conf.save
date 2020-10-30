@@ -1,0 +1,12 @@
+#directory yang diindex
+IndexDir ./file
+
+#file yang diindex, ekstensi .html
+IndexOnly .html
+
+#mengambil konten html
+DefaultContents HTML*
+StoreDescription HTML* <body> 200000
+
+#create file index
+IndexFile ./result
